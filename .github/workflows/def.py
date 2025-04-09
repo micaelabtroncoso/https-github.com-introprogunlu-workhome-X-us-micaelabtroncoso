@@ -8,4 +8,3 @@ y=10
 
 z=perimetro_rectangulo(x,y)
     
-print(z)
